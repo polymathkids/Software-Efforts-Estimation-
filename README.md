@@ -3,8 +3,6 @@ Analysis of Software Efforts Estimation using Machine Learning
 
 Worried about accurately estimating project effort? This repository houses five datasets and explores the impact of feature selection on machine learning models for better software effort estimation.
 
-Download and use these datasets for your research or projects.
-
 This repo is here to help! We've got:
 
 5 different datasets like NASA93 and COCOMO, covering all sorts of projects. ‍
