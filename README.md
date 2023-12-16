@@ -6,9 +6,13 @@ Worried about accurately estimating project effort? This repository houses five 
 This repo is here to help! We've got:
 
 5 different datasets like NASA93 and COCOMO, covering all sorts of projects. ‍
+
 Secret weapons called "features" that help predict project time better.
+
 Machine learning magic to turn those features into super-accurate estimates.
+
 The result? No more guessing games!  You can plan your projects and resources with confidence.
+
 
 What you can do:
 
