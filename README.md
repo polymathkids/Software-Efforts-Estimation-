@@ -29,5 +29,11 @@ Desharnais: https://github.com/toniesteves/sw-effort-predictive-analysis/blob/ma
 ISBSG: https://www.isbsg.org/resources-estimation/
 
 
+Feature selection sorcery: Filter out distractions and amplify key signals, leading to significantly more precise effort predictions.
+
+Machine learning magic: Witness the transformation of data into actionable insights, guiding you to confident resource allocation and project planning.
+
+
+
 Learn from our research: See how feature selection makes estimates way more accurate.
 Build your own awesome models: Use our findings to make project planning a breeze!
