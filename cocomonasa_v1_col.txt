@@ -1,0 +1,15 @@
+rely: Required software reliability
+data: Database size
+cplx: Product complexity
+time: Execution time contraint
+stor: Main storage constraint
+virt: Virtual machine volatility
+turn: Computer turnaround time
+acap: Analyst capability
+aexp: Application experience
+pcap: Programmer capability
+vexp: Virtual machine experience
+lexp: Programming lang. experience
+modp: Modern programming practices
+tools: Use of software tools
+sced: Required development schedule
